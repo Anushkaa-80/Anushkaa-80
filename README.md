@@ -73,7 +73,7 @@ JavaScript-based blog platform with smooth UI & feature-rich design
 ## 📬 Let’s Connect!
 
 <div align="center">
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/📧 Email-blue?style=flat&logo=gmail" alt="Email"/></a>
+  <a href="mailto:anushka7053@gmail.com" target="_blank"><img src="https://img.shields.io/badge/📧 Email-blue?style=flat&logo=gmail" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/🐦 Twitter-blue?style=flat&logo=twitter" alt="Twitter"/></a>
 </div>
