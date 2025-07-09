@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 - 🎓 **IT Engineer** passionate about Web Development & UI/UX
-- 💻 Skilled with **HTML**, **CSS**, **JavaScript**, **Flutter**, **Dart**, **SASS**, **Graphics Design**
+- 💻 Skilled with **HTML**, **CSS**, **JavaScript**, **Flutter**, **SASS**, **Graphics Design**
 - 🌱 Currently exploring **Advanced Frontend**, **UX Prototyping**, and **Design Systems**
 
 ---
