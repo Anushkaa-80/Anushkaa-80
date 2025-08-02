@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushkaa-80&show_icons=true&theme=radical)  
+<-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushkaa-80&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkaa-80&layout=compact&theme=radical)
 
 ---
