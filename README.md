@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 - 🎓 **IT Engineer** passionate about Web Development & UI/UX
-- 💻 Skilled with **HTML**, **CSS**, **JavaScript**, **Flutter**, **SASS**, **Graphics Design**
+- 💻 Skilled with **HTML**, **CSS**, **JavaScript**, **ReactJS**, **NextJS**, **Graphics Design**
 - 🌱 Currently exploring **Advanced Frontend**, **UX Prototyping**, and **Design Systems**
 
 ---
@@ -50,23 +50,6 @@ Here are some ideas to get you started:
 
 <!-- [Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushkaa-80&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkaa-80&layout=compact&theme=radical)
-
----
-
-## 📂 Featured Projects
-
-### EcoTrack 🌿  
-**EcoTrack** – A green-living web app built with HTML, CSS & JS  
-[Live Demo](https://anushka3204.github.io/Eco-track1_app/) • Highlights: responsive design, animations
-
-### ChillNGrill 🔥  
-A cozy restaurant landing page made with pure CSS
-
-### Booking.com Clone 🏨  
-Built using Flutter & Dart — demonstrates layout, navigation & state management
-
-### BlogBreeze ✍️  
-JavaScript-based blog platform with smooth UI & feature-rich design
 
 ---
 
