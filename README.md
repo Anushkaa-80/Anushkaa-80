@@ -63,12 +63,3 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚡ Fun Corner
-
-<details>
-  <summary>🎮️ Games & Fun Stuff</summary>
-
-- 💬 **Guestbook**: Drop me a note with [GitHub Actions Guestbook](#)
-- 📈 **Hit Counter**: See how many of you visit!
-- 🎮 **Mini-Game**: Play a Connect‑4 or Chess game embedded via GitHub Actions
-</details>
